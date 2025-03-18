@@ -26,10 +26,12 @@
   - [Exercises](https://github.com/RodrigoMendes04/Data-Structure---Java)
 
 ### 📅 **2nd Semester:**
-- **Desenho e Análise de Algoritmos and Sistemas de Operação**
+- **Sistemas de Operação**
   - No repository
 - **Inteligência Artificial (Python)**
   - [Project 2](https://github.com/RodrigoMendes04/Decision-Tree-Classifier)
+- **Desenho e Análise de Algoritmos (Java)**
+  - [Exercises](https://github.com/RodrigoMendes04/Algorithm-Design-and-Analysis---Java)
 
 ---
 
